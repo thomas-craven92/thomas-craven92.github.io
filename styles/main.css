@@ -11,3 +11,68 @@ h1 {
 p {
   font-family: 'Courier New', Courier, monospace;
 }
+#creature {
+  width: 400px;
+}
+.image {
+  width: 40em;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #1fafa1;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: right;
+}
+
+/* widescreen displays */
+@media only screen and (min-width: 920px) {
+  .container {
+    /* some layout rules */
+  }
+}
+
+/* tablets */
+@media only screen and (max-width: 919px) {
+  .container {
+    /* some layout rules */
+  }
+}
+
+/* phones */
+@media only screen and (max-width: 400px) {
+  .container {
+    /* some layout rules */
+  }
+}
