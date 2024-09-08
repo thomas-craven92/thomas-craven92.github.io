@@ -12,10 +12,11 @@ p {
   font-family: 'Courier New', Courier, monospace;
 }
 #creature {
-  width: 400px;
+  width: 40em;
 }
 .image {
-  width: 40em;
+  border-radius: 20px;
+  width: 25em;
 }
 ul {
   list-style-type: none;
@@ -75,4 +76,13 @@ footer {
   .container {
     /* some layout rules */
   }
+}
+
+.personal-links {
+  align-items: center;
+}
+
+.sub-heading {
+  background-color: antiquewhite;
+  opacity: 0.8;
 }
