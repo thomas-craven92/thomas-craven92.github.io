@@ -93,3 +93,38 @@ footer {
   border-style: dashed;
   margin: 20px;
 }
+
+h2 {
+  text-decoration: underline;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#margin-image {
+  width: 50em;
+  border-radius: 50px;
+}
+
+.p2 {
+  border: solid rgba(0, 238, 255, 0.507);
+  margin: 0 10 0 10;
+}
+
+.p3 {
+  border: solid rgb(182, 58, 58);
+  margin: 0 10 0 10;
+  padding: 20px;
+}
+
+.p4 {
+  border: solid rgb(69, 136, 43);
+  margin: 50px;
+  padding: 20px;
+}
+
+.p5 {
+  text-decoration: underline;
+}
+
+.bottom-margin {
+  margin-bottom: 65px;
+}
