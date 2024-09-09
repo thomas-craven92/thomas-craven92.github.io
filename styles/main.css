@@ -129,3 +129,16 @@ h3 {
 .bottom-margin {
   margin-bottom: 65px;
 }
+
+h2 {
+  color: rgb(0, 0, 0);
+}
+
+a:visited {
+  color: rgb(18, 106, 120);
+  text-decoration: line-through;
+}
+
+a:link {
+  color: rgb(28, 125, 28);
+}
