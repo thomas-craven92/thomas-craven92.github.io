@@ -142,3 +142,14 @@ a:visited {
 a:link {
   color: rgb(28, 125, 28);
 }
+
+table,
+th,
+td {
+  font-family: 'Courier New', Courier, monospace;
+  align-items: center;
+  border: #1fafa1;
+  border-style: double;
+  text-align: left;
+  margin: inherit;
+}
