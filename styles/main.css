@@ -18,12 +18,12 @@ p {
   border-radius: 20px;
   width: 25em;
 }
-ul {
+.nav-menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-ul {
+.nav-menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -152,4 +152,8 @@ td {
   border-style: double;
   text-align: left;
   margin: inherit;
+}
+
+.left {
+  text-align: left;
 }
