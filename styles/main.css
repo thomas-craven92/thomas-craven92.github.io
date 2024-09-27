@@ -157,3 +157,8 @@ td {
 .left {
   text-align: left;
 }
+
+.divhead {
+  font-size: 32pt;
+  background-color: bisque;
+}
