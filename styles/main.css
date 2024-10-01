@@ -90,9 +90,9 @@ footer {
 
 .content {
   padding: 50px;
-  border: solid;
-  border-style: dashed;
+  border: 2px dashed black;
   margin: 20px;
+  margin-bottom: 100px;
 }
 
 h2,
